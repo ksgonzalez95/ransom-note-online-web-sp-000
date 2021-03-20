@@ -1,4 +1,4 @@
-function ransomNote(mag,ran) 
+function ransomNote(mag,ran)
 
 
 
